@@ -4,7 +4,7 @@
 
 Vira Player is a premium, next-generation media player designed for Android TV, Google TV, and Amazon Fire TV. Built with a focus on stability, security, and user experience, it offers a seamless IPTV and OTT streaming experience without providing any content itself.
 
-![Vira Player Banner](assets/banner.png) *(İleride banner görselini buraya ekleyebilirsiniz)*
+![Vira Player Banner](assets/banner.png) 
 
 ## 🌟 Key Features
 
